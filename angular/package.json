@@ -61,6 +61,7 @@
     "push.js": "1.0.9",
     "raphael": "^2.2.7",
     "rxjs": "^6.2.0",
+    "set-value": "2.0.1",
     "simple-line-icons": "^2.4.1",
     "spin.js": "^2.3.2",
     "sweetalert": "^2.0.8",
